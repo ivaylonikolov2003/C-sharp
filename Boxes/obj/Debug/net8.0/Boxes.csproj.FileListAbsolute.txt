@@ -1,0 +1,14 @@
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.AssemblyInfoInputs.cache
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.AssemblyInfo.cs
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Boxes\bin\Debug\net8.0\Boxes.exe
+D:\Programming\C#\Boxes\bin\Debug\net8.0\Boxes.deps.json
+D:\Programming\C#\Boxes\bin\Debug\net8.0\Boxes.runtimeconfig.json
+D:\Programming\C#\Boxes\bin\Debug\net8.0\Boxes.dll
+D:\Programming\C#\Boxes\bin\Debug\net8.0\Boxes.pdb
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.dll
+D:\Programming\C#\Boxes\obj\Debug\net8.0\refint\Boxes.dll
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.pdb
+D:\Programming\C#\Boxes\obj\Debug\net8.0\Boxes.genruntimeconfig.cache
+D:\Programming\C#\Boxes\obj\Debug\net8.0\ref\Boxes.dll
