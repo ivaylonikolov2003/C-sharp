@@ -1,0 +1,7 @@
+D:\Programming\C#\RandomNumbers\obj\Debug\RandomNumbers.csproj.AssemblyReference.cache
+D:\Programming\C#\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+D:\Programming\C#\RandomNumbers\bin\Debug\RandomNumbers.exe
+D:\Programming\C#\RandomNumbers\bin\Debug\RandomNumbers.pdb
+D:\Programming\C#\RandomNumbers\obj\Debug\RandomNumbers.exe
+D:\Programming\C#\RandomNumbers\obj\Debug\RandomNumbers.pdb
